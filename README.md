@@ -290,7 +290,7 @@ a
 It is a vowel
 7
 It is a digit
-#
+ #
 It is a special symbol
 
 # Result: 
