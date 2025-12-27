@@ -27,7 +27,6 @@ To build a C program that prints integer, float,character, and string literals o
    Stop
 # Program:
 #include <stdio.h>
-
 int main()
 {
     int num = 10;           
